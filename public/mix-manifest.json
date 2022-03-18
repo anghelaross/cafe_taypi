@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/simplebar.css": "/css/simplebar.css",
+    "/css/style.css": "/css/style.css",
+    "/css/coreui-chartjs.css": "/css/coreui-chartjs.css",
+    "/js/coreui.bundle.min.js": "/js/coreui.bundle.min.js",
+    "/js/simplebar.min.js": "/js/simplebar.min.js",
+    "/js/chart.min.js": "/js/chart.min.js",
+    "/js/coreui-chartjs.js": "/js/coreui-chartjs.js",
+    "/js/coreui-utils.js": "/js/coreui-utils.js",
+    "/js/main.js": "/js/main.js",
+    "/css/vendors/simplebar.css": "/css/vendors/simplebar.css",
+    "/icons/sprites/brand.svg": "/icons/sprites/brand.svg",
+    "/icons/sprites/flag.svg": "/icons/sprites/flag.svg",
+    "/icons/sprites/free.svg": "/icons/sprites/free.svg"
+}
